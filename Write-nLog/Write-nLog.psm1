@@ -1,4 +1,4 @@
-﻿function Write-nLog {
+function Write-nLog {
 <#
 .Synopsis
    Custom logging function with some shortcuts for easier debugging
@@ -116,4 +116,4 @@
         throw $Message
         }
 
-    } # end func
+    } # end function Write-nLog
